@@ -1,0 +1,13 @@
+﻿Build started 2017/9/20 14:10:42.
+     1>Project "D:\RicohTheta-Decklink-LoomStitch-Github\CapturePreview\CapturePreview.vcxproj" on node 2 (Build target(s)).
+     1>Midl:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midl.exe /D _DEBUG /W1 /nologo /char signed /env win32 /h "DeckLinkAPI_h.h" /tlb "Debug\CapturePreview.tlb" /robust ..\..\include\DeckLinkAPI.idl 
+         Processing ..\..\include\DeckLinkAPI.idl
+         DeckLinkAPI.idl
+     1>c1 : fatal error C1083: Cannot open source file: '..\..\include\DeckLinkAPI.idl': No such file or directory
+     1>midl : command line error MIDL1003: error returned by the C preprocessor (2)
+     1>Done Building Project "D:\RicohTheta-Decklink-LoomStitch-Github\CapturePreview\CapturePreview.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.55
